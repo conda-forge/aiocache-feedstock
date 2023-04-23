@@ -1,11 +1,11 @@
-About aiocache
-==============
+About aiocache-feedstock
+========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/aiocache-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/aio-libs/aiocache
 
 Package license: BSD-3-Clause
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/aiocache-feedstock/blob/main/LICENSE.txt)
 
 Summary: multi backend asyncio cache
 
