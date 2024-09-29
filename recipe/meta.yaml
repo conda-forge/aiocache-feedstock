@@ -1,5 +1,5 @@
 {% set name = "aiocache" %}
-{% set version = "0.12.2" %}
+{% set version = "0.12.3" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/aiocache-{{ version }}.tar.gz
-  sha256: b41c9a145b050a5dcbae1599f847db6dd445193b1f3bd172d8e0fe0cb9e96684
+  sha256: f528b27bf4d436b497a1d0d1a8f59a542c153ab1e37c3621713cb376d44c4713
 
 build:
   number: 0
